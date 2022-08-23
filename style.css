@@ -14,6 +14,7 @@ h1 {
     background-size: cover;
     text-align: center;
     height: 600px;
+
 }
 
 .top-banner-section h1 {
@@ -23,18 +24,47 @@ h1 {
 }
 
 .top-banner-section p {
-    font-size: 18px;
+    font-size: 28px;
     margin-top: 30px;
     margin-bottom: 40px;
     color: white;
 }
 
 .common-button {
-    color: white;
+    color: wheat;
     font-size: 20px;
     padding: 16px;
     text-decoration: none;
     background-color: #FF5959;
     border-radius: 5px;
 
+}
+
+.pay-amount {
+    display: inline-block;
+    padding: 30px;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.donate-today-section {
+    text-align: center;
+}
+
+.selected-amount {
+    display: inline-block;
+    padding: 30px;
+    background-color: #FFEEEE;
+    border-radius: 5px;
+    margin: 20px;
+    border: 2px solid #FF5959;
+}
+
+.other-amount-field {
+    display: block;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 40px;
+    text-align: center;
 }
