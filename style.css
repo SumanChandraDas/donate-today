@@ -4,8 +4,16 @@ body {
     margin: 0;
 }
 
+section {
+    margin-bottom: 80px;
+}
+
 h1 {
     font-size: 65px;
+}
+
+h2 {
+    font-size: 45px;
 }
 
 .top-banner-section {
@@ -67,4 +75,36 @@ h1 {
     margin-left: 25%;
     margin-bottom: 40px;
     text-align: center;
+}
+
+.donate-plan-section-heading {
+    text-align: center;
+}
+
+.our-donate-plans {
+    display: flex;
+}
+
+.our-donate-plan {
+    margin: 24px;
+    padding: 23px;
+    width: 360px;
+    height: 352px;
+    border-radius: 5px;
+}
+
+.donate-plan-heading {
+    font-size: 24px;
+}
+
+#food-for-family {
+    background: rgba(79, 157, 166, 0.1);
+}
+
+#shelter-for-a-family {
+    background: rgba(255, 89, 89, 0.1);
+}
+
+#Education-for-a-child {
+    background-color: beige;
 }
