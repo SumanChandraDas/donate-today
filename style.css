@@ -112,3 +112,38 @@ h2 {
 .why-donately {
     text-align: center;
 }
+
+.get-our-update-section-heading {
+    text-align: center;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+}
+
+.subscrive-form {
+    width: 809px;
+    height: 200px;
+    background-color: #FFF4D6;
+}
+
+.subscrive-form input {
+    margin-top: 76px;
+    margin-left: 189px;
+    width: 275px;
+    height: 48px;
+    border: none;
+    padding: 0px;
+    background-color: #D9D9D9;
+}
+
+.subscrive-form button {
+
+    border: none;
+    width: 157px;
+    height: 48px;
+    padding: 0px;
+    background: #FF5959;
+    color: white;
+}
