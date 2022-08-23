@@ -147,3 +147,19 @@ h2 {
     background: #FF5959;
     color: white;
 }
+
+footer {
+    padding-top: 45px;
+    background-color: black;
+    height: 177px;
+    text-align: center;
+}
+
+footer h3 {
+
+    color: #FF5959;
+}
+
+#copy-right {
+    color: white;
+}
